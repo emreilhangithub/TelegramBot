@@ -18,7 +18,7 @@ Gelen mesajda Botumuzun isminin ne olacağı isteniyor. Burası benzersiz bir de
 Eğer 5. adımı da başarı ile tamamladıysanız artık akılsız bir botunuz var demektir. Size verilen token, bot ile haberleşmeyi sağlayacaktır. Bunun için herhangi bir dil kullanabilirsiniz. Lakin bu yazıda node.js ve telegram botları için yazılmış özel bir api kullanacağız.*
 
 ## Yazdığım Program Nasıl Çalışır
-*"C:\Users\TelegramBot\TelegramBot\bin\Debug\data.xml" buradan token kısmına Telegram BotFatherden aldığınız tokeni <token> taglarının içine yazmanız yeterlidir*
+*Telegram BotFatherden aldığınız tokeni base64'e çevirerek "C:\Users\TelegramBot\TelegramBot\bin\Debug\data.xml" dosyası içersinde <token> taglarının içine yazmanız yeterlidir *
 
 ### Kaynaklar ###
 https://core.telegram.org/bots
@@ -26,4 +26,4 @@ https://core.telegram.org/bots
 ### Destek ###
 *Desteklerinden dolayı Önder Özkum'a teşekkür ederim*
 
-```.Net``` ```C#``` ```XML``` ```Software``` ```Computer``` ```Programmer``` ```Api```  
+```.Net``` ```C#``` ```XML``` ```Software``` ```Computer``` ```Programmer``` ```Api```
